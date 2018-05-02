@@ -322,7 +322,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .r {
-  	width: 90%;
+  	width: 95%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
@@ -347,14 +347,14 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: html5 2s ease;
 }
 .bash {
-  	width: 75%;
+  	width: 80%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
 
 @-moz-keyframes r {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 95%;  }
 }
 @-moz-keyframes python {
   0%   { width: 0px;  }
@@ -374,7 +374,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes bash {
   0%   { width: 0px;  }
-  100% { width: 75%;  }
+  100% { width: 80%;  }
 }
 
 @-webkit-keyframes r {
